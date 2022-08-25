@@ -6,3 +6,6 @@ Don Michael Y. Gavieta
 
 # Installation Guide
 visit git documentation
+
+#Version
+1.1
