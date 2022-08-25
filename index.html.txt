@@ -2,7 +2,11 @@ sample text
 
 changes from me
 
+<<<<<<< HEAD
 another changes from me
 
 another changes
 
+=======
+hello sir - don
+>>>>>>> 2277d82 (modifying index.html file)
